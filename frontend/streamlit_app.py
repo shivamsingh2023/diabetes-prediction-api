@@ -95,7 +95,7 @@ st.markdown(
 # CONFIGURATION
 # ---------------------------------------------------------
 
-API_URL = "http://127.0.0.1:8000/predict"
+API_URL = "https://diabetes-prediction-api-sj0c.onrender.com/predict"
 
 
 # ---------------------------------------------------------
